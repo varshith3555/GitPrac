@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitPracApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c2949759baec99c1d294e282be626cf5893e6c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitPracApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitPracApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
